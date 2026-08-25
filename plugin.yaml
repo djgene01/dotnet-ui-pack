@@ -1,0 +1,5 @@
+name: dotnet-ui-pack
+version: 1.1.0
+description: "Ultimate C#/.NET UI plugin skills pack: full semantics of WPF, MAUI (.NET Multi-platform App UI), and Blazor, plus modern C# language foundations."
+author: Eugene
+license: MIT
